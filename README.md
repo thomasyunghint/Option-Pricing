@@ -113,4 +113,4 @@ Pull requests are welcome! Please open an issue first to discuss major changes.
 
 **Mentor:** Mitch Gao, Ph.D. – Director, Desk Quant (Unified Global Markets), UBS
 
-> *Built with Coke Zero, code, and an unhealthy fascination with the Greeks.*
+> *Built with Coke Zero, code, and a fascination with the Greeks.*
