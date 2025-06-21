@@ -77,7 +77,9 @@ def price_option(n_clicks, ticker, strike, exp_date, option_type):
     sigma = get_sigma(ticker)
     T = (datetime.strptime(exp_date, "%Y-%m-%d") - datetime.today()).days / 365
     price = bs_formula(S, strike, T, sigma, option_type)
+    price_text = f"{option_type.capitalize()} Option Price: ${price:.4f}"
+    
     fig = get_chart(ticker)
     fig_greeks = get_greeks_plot(S, T, sigma, option_type)
     fig_vol = get_vol_plot(ticker)
-    return price, fig, fig_greeks, fig_vol
+    return price_text, fig, fig_greeks, fig_vol
