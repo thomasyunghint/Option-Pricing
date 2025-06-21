@@ -11,9 +11,8 @@ An interactive, production‑ready dashboard that brings professional option‑p
 3. [Getting Started](#getting-started)
 4. [Usage Guide](#usage-guide)
 5. [Screenshots](#screenshots)
-6. [Roadmap](#roadmap)
-7. [Contributing](#contributing)
-8. [Author & Acknowledgements](#author--acknowledgements)
+6. [Contributing](#contributing)
+7. [Author & Acknowledgements](#author--acknowledgements)
 
 ---
 
@@ -90,19 +89,10 @@ The dashboard returns:
 
 ## Screenshots
 
-|           Main Dashboard           |           Greeks Panel          |              IV Surface             |
-| :--------------------------------: | :-----------------------------: | :---------------------------------: |
-| ![](docs/screenshot_dashboard.png) | ![](docs/screenshot_greeks.png) | ![](docs/screenshot_iv_surface.png) |
+|   Main Dashboard   |   Greeks Panel  |              IV Surface             |
+| :----------------: | :-------------: | :---------------------------------: |
+| ![](Dashboard.png) | ![](Greeks.png) | ![](Implied_Volatility_Surface.png) |
 
----
-
-## Roadmap
-
-* [ ] Add support for American‑style options via numerical methods
-* [ ] Plug‑in architecture for alternative pricing models (Heston, SABR)
-* [ ] Real‑time IV surface smoothing with cubic splines
-* [ ] Docker image & cloud deployment template
-* [ ] Unit‑test suite + CI badge
 
 ---
 
@@ -123,4 +113,4 @@ Pull requests are welcome! Please open an issue first to discuss major changes.
 
 **Mentor:** Mitch Gao, Ph.D. – Director, Desk Quant (Unified Global Markets), UBS
 
-> *Built with Coke Zero, code, and passions with the Greeks.*
+> *Built with Coke Zero, code, and an unhealthy fascination with the Greeks.*
