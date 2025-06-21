@@ -1,0 +1,34 @@
+#op_ticker_input::placeholder {
+    color: #888; /* Light gray or any color you want */
+    opacity: 0.2;  /* Optional: make sure it's not transparent */
+}
+
+#op_strike_input::placeholder {
+    color: #888; /* Light gray or any color you want */
+    opacity: 0.2;  /* Optional: make sure it's not transparent */
+}
+
+#header{
+    background-color: white !important;
+}
+
+
+#header .navbar-brand {
+    color:black
+}
+
+#header .nav-link{
+    color:black
+}
+
+.page-container {
+    max-width: 1800px;
+    margin: auto;
+}
+
+#option_price_header{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 3px;
+    margin-bottom: 10px;
+}
