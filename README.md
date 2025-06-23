@@ -111,4 +111,4 @@ Pull requests are welcome! Please open an issue first to discuss major changes.
 **Author:** Thomas Tse
 **Mentor:** Mitch Gao, Ph.D. – Director, Desk Quant (Unified Global Markets), UBS
 
-> *Built with caffeine, code, and an unhealthy fascination with the Greeks.*
+> *Built with Coke Zero, code, and a fascination with the Greeks.*
