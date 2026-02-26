@@ -104,11 +104,5 @@ Pull requests are welcome! Please open an issue first to discuss major changes.
 3. Commit & push (`git commit -m "Add ✨" && git push origin feature/my-feature`)
 4. Open a PR
 
----
-
-## Author & Acknowledgements
-
-**Author:** Thomas Tse
-**Mentor:** Mitch Gao, Ph.D. – Director, Desk Quant (Unified Global Markets), UBS
-
 > *Built with Coke Zero, code, and a fascination with the Greeks.*
+
